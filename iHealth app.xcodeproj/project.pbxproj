@@ -14,6 +14,7 @@
 		E614AE1C29094FF3002AC757 /* iHealth_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E614AE1B29094FF3002AC757 /* iHealth_appTests.swift */; };
 		E614AE2629094FF3002AC757 /* iHealth_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E614AE2529094FF3002AC757 /* iHealth_appUITests.swift */; };
 		E614AE2829094FF3002AC757 /* iHealth_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E614AE2729094FF3002AC757 /* iHealth_appUITestsLaunchTests.swift */; };
+		E614AE35290953C6002AC757 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E614AE34290953C6002AC757 /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E614AE2129094FF3002AC757 /* iHealth appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iHealth appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E614AE2529094FF3002AC757 /* iHealth_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iHealth_appUITests.swift; sourceTree = "<group>"; };
 		E614AE2729094FF3002AC757 /* iHealth_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iHealth_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E614AE34290953C6002AC757 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				E614AE0A29094FF2002AC757 /* iHealth_appApp.swift */,
+				E614AE34290953C6002AC757 /* SplashScreenView.swift */,
 				E614AE0C29094FF2002AC757 /* ContentView.swift */,
 				E614AE0E29094FF3002AC757 /* Assets.xcassets */,
 				E614AE1029094FF3002AC757 /* Preview Content */,
@@ -259,6 +262,7 @@
 			files = (
 				E614AE0D29094FF2002AC757 /* ContentView.swift in Sources */,
 				E614AE0B29094FF2002AC757 /* iHealth_appApp.swift in Sources */,
+				E614AE35290953C6002AC757 /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
